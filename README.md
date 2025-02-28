@@ -68,3 +68,5 @@ A basic portfolio website typically includes the following sections:
 - **Bootstrap:** A popular CSS framework that can help you create responsive designs quickly.
 - **Tutorials and Courses:** Websites like FreeCodeCamp, W3Schools, and YouTube offer numerous tutorials and courses to help you improve your skills in HTML, CSS, and JavaScript.
 
+OUTPUT
+![Image](https://github.com/user-attachments/assets/329e22fe-0427-4af0-a9cc-3bb37154299c)
