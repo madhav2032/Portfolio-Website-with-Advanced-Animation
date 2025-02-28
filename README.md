@@ -70,3 +70,4 @@ A basic portfolio website typically includes the following sections:
 
 OUTPUT
 ![Image](https://github.com/user-attachments/assets/329e22fe-0427-4af0-a9cc-3bb37154299c)
+![Image](https://github.com/user-attachments/assets/bcf4bdfb-fcf8-45a6-9e3e-12b3dd639703)
