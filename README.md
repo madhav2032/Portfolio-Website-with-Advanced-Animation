@@ -1,10 +1,17 @@
 # Portfolio-Website-with-Advanced-Animation
+
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: ARATI MANGROLE
+
 INTERN ID: CT12ODZ
+
 DOMAIN: WED DEVELOPMENT
+
 DURATION: 8 WEEKS
+
 MENTOR: NEELA SANTOSH
+
 DESCRIPTION:
 Creating a portfolio website using HTML, CSS, and JavaScript is a fundamental step for web developers and designers looking to showcase their skills and projects online. Here's a detailed description of how you can build a portfolio website using these technologies, along with examples and best practices.
 
